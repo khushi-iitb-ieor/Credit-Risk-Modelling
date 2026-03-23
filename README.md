@@ -41,6 +41,4 @@ The goal is to help financial institutions assess risk before giving loans.
 - NumPy
 - Scikit-learn
 
----
 
-## 📁 Project Structure
