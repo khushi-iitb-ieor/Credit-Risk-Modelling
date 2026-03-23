@@ -10,7 +10,7 @@ The goal is to help financial institutions assess risk before giving loans.
 - Total Records: 466,285  
 - Total Features: 75  
 
-👉 Full dataset: 
+👉 Full dataset: https://drive.google.com/file/d/1VOy91bx2xIAL72xuS6F8ICsVQFDNbsUU/view?usp=drive_link
 
 ---
 
