@@ -25,10 +25,13 @@ The goal is to help financial institutions assess risk before giving loans.
 ---
 
 ## 📈 Model Performance
-- Accuracy: 
-- Precision: 
-- Recall: 
-- ROC-AUC: 
+- Accuracy: 41%
+- Precision (Default): 96%
+- Recall (Default): 35%
+- F1 Score: 0.49
+- AUROC: 0.69
+- KS Statistics: 0.29
+
 
 ---
 
