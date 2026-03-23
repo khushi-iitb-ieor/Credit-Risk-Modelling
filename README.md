@@ -42,3 +42,9 @@ The goal is to help financial institutions assess risk before giving loans.
 - Scikit-learn
 
 
+---
+
+## 🚀 Future Improvements  
+- Try advanced models (Random Forest, XGBoost)  
+- Hyperparameter tuning   
+
