@@ -30,7 +30,7 @@ The goal is to help financial institutions assess risk before giving loans.
 - Recall (Default): 35%
 - F1 Score: 0.49
 - AUROC: 0.69
-- KS Statistics: 0.29
+- KS Statistic: 0.29
 
 
 ---
