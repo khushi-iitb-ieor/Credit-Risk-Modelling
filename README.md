@@ -44,6 +44,21 @@ The goal is to help financial institutions assess risk before giving loans.
 
 ---
 
+
+## 💰 Business Impact (Expected Loss)
+
+- Expected Loss Ratio: **10.6%**
+
+This means that for every ₹100 disbursed, the bank is expected to lose ₹10.6 due to defaults.
+
+This metric helps financial institutions:
+- Estimate potential losses  
+- Make better lending decisions  
+- Adjust risk thresholds
+
+
+---
+
 ## 🚀 Future Improvements  
 - Try advanced models (Random Forest, XGBoost)  
 - Hyperparameter tuning   
